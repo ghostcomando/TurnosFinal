@@ -1,0 +1,64 @@
+﻿body 
+{
+    width: 100%;
+}
+
+#Box
+{
+    background-image:url(../Imagenes/FondoTurnos.jpg);
+    background-color:antiquewhite;
+    position:absolute;
+    top:150px;
+    left:100px;
+    border: 2px solid black;
+    margin: auto;
+    width:1200px;
+    height: 600px;
+    border-radius:20px;
+}
+
+#Gif
+{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+
+.Subtitulo
+{
+    position: absolute;
+    font-size:20px;
+}
+
+#PanelTurnos
+{
+    position: absolute;
+    left:630px;
+    font-size:60px;
+}
+
+
+#PanelVentanillas
+{
+    position: absolute;
+    left:900px;
+    font-size:60px;
+}
+
+#Clock
+{
+    position:absolute;
+    left:70px;
+    top:500px;
+    font-size:80px;
+}
+
+#Fecha
+{
+    position:absolute;
+    left:70px;
+    top:450px;
+    font-size:50px;
+}
+

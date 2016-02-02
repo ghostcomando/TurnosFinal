@@ -1,0 +1,14 @@
+d:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Datos\bin\Debug\Datos.dll
+d:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Datos\bin\Debug\Datos.pdb
+d:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Datos\bin\Debug\Entidades.dll
+d:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Datos\bin\Debug\Entidades.pdb
+d:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+d:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Datos\obj\Debug\Datos.dll
+d:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Datos\obj\Debug\Datos.pdb
+D:\Becerra\Documents\Visual Studio 2015\TurnosFinal\AdminUsers\Datos\bin\Debug\Datos.dll
+D:\Becerra\Documents\Visual Studio 2015\TurnosFinal\AdminUsers\Datos\bin\Debug\Datos.pdb
+D:\Becerra\Documents\Visual Studio 2015\TurnosFinal\AdminUsers\Datos\bin\Debug\Entidades.dll
+D:\Becerra\Documents\Visual Studio 2015\TurnosFinal\AdminUsers\Datos\bin\Debug\Entidades.pdb
+D:\Becerra\Documents\Visual Studio 2015\TurnosFinal\AdminUsers\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Becerra\Documents\Visual Studio 2015\TurnosFinal\AdminUsers\Datos\obj\Debug\Datos.dll
+D:\Becerra\Documents\Visual Studio 2015\TurnosFinal\AdminUsers\Datos\obj\Debug\Datos.pdb

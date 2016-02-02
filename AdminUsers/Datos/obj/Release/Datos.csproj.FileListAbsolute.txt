@@ -1,0 +1,7 @@
+D:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Datos\bin\Release\Datos.dll
+D:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Datos\bin\Release\Datos.pdb
+D:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Datos\bin\Release\Entidades.dll
+D:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Datos\bin\Release\Entidades.pdb
+D:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+D:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Datos\obj\Release\Datos.dll
+D:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Datos\obj\Release\Datos.pdb

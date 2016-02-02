@@ -1,0 +1,10 @@
+d:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Entidades\bin\Debug\Entidades.dll
+d:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Entidades\bin\Debug\Entidades.pdb
+d:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Entidades\obj\Debug\Entidades.dll
+d:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Entidades\obj\Debug\Entidades.pdb
+D:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Becerra\Documents\Visual Studio 2015\TurnosFinal\AdminUsers\Entidades\bin\Debug\Entidades.dll
+D:\Becerra\Documents\Visual Studio 2015\TurnosFinal\AdminUsers\Entidades\bin\Debug\Entidades.pdb
+D:\Becerra\Documents\Visual Studio 2015\TurnosFinal\AdminUsers\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Becerra\Documents\Visual Studio 2015\TurnosFinal\AdminUsers\Entidades\obj\Debug\Entidades.dll
+D:\Becerra\Documents\Visual Studio 2015\TurnosFinal\AdminUsers\Entidades\obj\Debug\Entidades.pdb

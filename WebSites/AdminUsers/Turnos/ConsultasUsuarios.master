@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="ConsultasUsuarios.master.cs" Inherits="Usuarios_ConsultasUsuarios" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>TURNOS</title>
+    <link href="../CSS/ConsultasUsuarios.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .ImgTop {}
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="divTop">
+        <asp:ImageButton ID="ibFacebook" runat="server" CssClass="ImgTop" ImageUrl="../Imagenes/IconoFacebook.jpg" PostBackUrl="https://www.facebook.com/ghostcomando" Height="50px" Width="50px" /> &nbsp;
+        <asp:ImageButton ID="ibTwitter" runat="server" CssClass="ImgTop" ImageUrl="../Imagenes/IconoTwitter.jpg" PostBackUrl="http://www.twitter.com" Height="50px" /> &nbsp;
+        <asp:ImageButton ID="ibYoutube" runat="server" CssClass="ImgTop" ImageUrl="../Imagenes/IconoYoutube.jpg" PostBackUrl="http://www.youtube.com" Height="50px" /> &nbsp;
+
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+        <header>
+        HEADER
+        </header>
+        <nav>
+            <asp:ContentPlaceHolder ID="cphnavmenus" runat="server"></asp:ContentPlaceHolder>
+        </nav>
+        <section>
+            <article>
+                <asp:ContentPlaceHolder ID="cphPrincipal" runat="server"></asp:ContentPlaceHolder>
+            </article>
+            <aside>
+                <asp:ContentPlaceHolder ID="cphAnuncios" runat="server"></asp:ContentPlaceHolder>
+            </aside>
+        </section>
+        <footer>
+            Powered By Juan Carlos Patiño Ing. Sistemas y Computación UTP
+        </footer>
+    </form>
+</body>
+</html>

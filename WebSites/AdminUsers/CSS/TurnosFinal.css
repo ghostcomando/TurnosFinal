@@ -1,0 +1,13 @@
+﻿body {
+}
+
+#GridViewListadoTurnos{
+    top:20px;
+    left:300px;
+}
+
+.LabelUsuario{
+    position:absolute;
+    top:20px;
+    left:3000px;
+}

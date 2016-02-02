@@ -1,0 +1,5 @@
+D:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Entidades\bin\Release\Entidades.dll
+D:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Entidades\bin\Release\Entidades.pdb
+D:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Entidades\obj\Release\Entidades.csprojResolveAssemblyReference.cache
+D:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Entidades\obj\Release\Entidades.dll
+D:\Becerra\Documents\Visual Studio 2015\Projects\AdminUsers\Entidades\obj\Release\Entidades.pdb
